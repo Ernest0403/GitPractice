@@ -10,3 +10,4 @@ const diff = num1 - num2;
 // display the sum
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
 console.log('The diff of ' + num1 + ' and ' + num2 + ' is: ' + diff);
+console.log("hello world");
